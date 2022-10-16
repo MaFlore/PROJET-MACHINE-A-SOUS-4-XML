@@ -1,6 +1,6 @@
 # PROJET-MACHINE-A-SOUS-4-XML
 PROJET : Gestion d’une machine à sous en ligne.
-Implémentation du PROJET-MACHINE-A-SOUS-4 en envoyant une requête asynchrone POST AJAX au serveur avec réponses des données au client au format XML.
+Implémentation du PROJET-MACHINE-A-SOUS-3 en envoyant une requête asynchrone POST AJAX au serveur avec réponses des données au client au format XML.
 
 DESCRIPTION DETAILLE DU FONCTIONNEMENT DU JEU
 
